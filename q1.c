@@ -6,6 +6,6 @@
 
 int main(int argc, char * argv[]){
   //Write your solution here
-  //PLEASE WRK
+  //PLEASE
   return EXIT_SUCCESS;
 }
