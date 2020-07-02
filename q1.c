@@ -5,8 +5,7 @@
 #include "shell_list.h"
 
 int main(int argc, char * argv[]){
-  //Write your solution here
-  //PLEASE
+ 
   //TEST
   return EXIT_SUCCESS;
 }
