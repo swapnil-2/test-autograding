@@ -7,7 +7,6 @@
 int main(int argc, char * argv[]){
   //Write your solution here
   //PLEASE
-  //dsfsdfsg
   //TEST
   return EXIT_SUCCESS;
 }
