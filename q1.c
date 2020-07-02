@@ -6,8 +6,6 @@
 
 int main(int argc, char * argv[]){
   //Write your solution here
-  
-
 
   return EXIT_SUCCESS;
 }
