@@ -6,8 +6,7 @@
 
 int main(int argc, char * argv[]){
  //sfdsfs
- //SSSS
-
+ //SS
 
 
  printf("%s",'this code should work');
