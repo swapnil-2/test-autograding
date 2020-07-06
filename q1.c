@@ -6,9 +6,7 @@
 
 int main(int argc, char * argv[]){
  //sfdsfs
- 
  printf("%s",'this code should work');
  
   return EXIT_SUCCESS;
 }
-d
