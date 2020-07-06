@@ -3,15 +3,9 @@
 #include <string.h>
 
 int main(int argc, char * argv[]){
- //sf
+ printf("%s",'this code should work');
+ printf("%d",120);
+ print("siddharths submission");
  
- 
- 
- 
- 
- 
- printf("%s",'thi
-        s code should work');
- 
-  return EXIT_SUCCESS;
+ return EXIT_SUCCESS;
 }
