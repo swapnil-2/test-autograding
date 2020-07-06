@@ -7,8 +7,6 @@
 int main(int argc, char * argv[]){
  //sfdsfs
  //SS
-
-
  printf("%s",'this code should work');
  
   return EXIT_SUCCESS;
